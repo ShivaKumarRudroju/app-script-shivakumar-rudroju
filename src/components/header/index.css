@@ -1,0 +1,437 @@
+/* Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* Your mobile styles here */
+  .Gre-Stripy {
+    width: Fixed (1, 440px) px;
+    height: Hug (32px) px;
+    padding: 8px 274px 8px 274px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+    background-color: black;
+  }
+  .Grey-strip-logo {
+    display: flex;
+    justify-content: space-around;
+  }
+  .header-section {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .header-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .icon {
+    width: 24px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .heading {
+    width: 721px;
+    height: 168px;
+    top: 292px;
+    left: 360px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .logo-section {
+    width: Hug (244px) px;
+    height: Hug (24px) px;
+    top: 46px;
+    left: 1100px;
+    gap: 24px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .header {
+    display: flex;
+    justify-content: space-around;
+  }
+  .h1 {
+    width: 666px;
+    height: 72px;
+    top: 292px;
+    left: 388px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Simplon Norm;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  .paragraph {
+    width: 721px;
+    height: 80px;
+    top: 380px;
+    left: 360px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Simplon Norm;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: center;
+  }
+  .content {
+    width: 721px;
+    height: 168px;
+    top: 292px;
+    left: 360px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .logo {
+    width: 35.61px;
+    height: 35.66px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 43.57px;
+    letter-spacing: 1px;
+    text-align: left;
+  }
+  .vector-logo {
+    width: 36px;
+    height: 36px;
+    top: 40px;
+    left: 96px;
+    padding: 0px 0.39px 0.34px 0px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  select.select {
+    border: none;
+    outline: none;
+  }
+  .nav {
+    width: Hug (636px) px;
+    height: Hug (24px) px;
+    top: 140px;
+    left: 402px;
+    gap: 64px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+  }
+  .nav-option {
+    font-family: Simplon Norm;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-align: left;
+  }
+}
+/* Medium devices (tablets, less than 992px) */
+@media (min-width: 576px) and (max-width: 991.98px) {
+  /* Your tablet styles here */
+  .Gre-Stripy {
+    width: Fixed (1, 440px) px;
+    height: Hug (32px) px;
+    padding: 8px 274px 8px 274px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+    background-color: black;
+  }
+  .Grey-strip-logo {
+    display: flex;
+    justify-content: space-around;
+  }
+  .header-section {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .header-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .icon {
+    width: 24px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .heading {
+    width: 721px;
+    height: 168px;
+    top: 292px;
+    left: 360px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .logo-section {
+    width: Hug (244px) px;
+    height: Hug (24px) px;
+    top: 46px;
+    left: 1100px;
+    gap: 24px;
+    opacity: 0px;
+  }
+  .header {
+    display: flex;
+    justify-content: space-around;
+  }
+  .h1 {
+    width: 666px;
+    height: 72px;
+    top: 292px;
+    left: 388px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Simplon Norm;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  .paragraph {
+    font-family: Simplon Norm;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: center;
+    width: 721px;
+    height: 80px;
+    top: 380px;
+    left: 360px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .content {
+    width: 721px;
+    height: 168px;
+    top: 292px;
+    left: 360px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+  }
+  .logo {
+    width: 35.61px;
+    height: 35.66px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 43.57px;
+    letter-spacing: 1px;
+    text-align: left;
+  }
+  .vector-logo {
+    width: 36px;
+    height: 36px;
+    top: 40px;
+    left: 96px;
+    padding: 0px 0.39px 0.34px 0px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  select.select {
+    border: none;
+    outline: none;
+  }
+  .nav {
+    width: Hug (636px) px;
+    height: Hug (24px) px;
+    top: 140px;
+    left: 402px;
+    gap: 64px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+  }
+  .nav-option {
+    font-family: Simplon Norm;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-align: left;
+  }
+}
+/* Large devices (desktops, laptops, wider than 992px) */
+@media (min-width: 992px) {
+  /* Your desktop styles here */
+  .header-section {
+    flex-wrap: wrap;
+  }
+  .Gre-Stripy {
+    width: Fixed (1, 440px) px;
+    height: Hug (32px) px;
+    padding: 8px 274px 8px 274px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+    background-color: black;
+  }
+  .Grey-strip-logo {
+    display: flex;
+    justify-content: space-around;
+  }
+  .element-1 {
+    width: 16px;
+    height: 16px;
+    gap: 0px;
+    border: 1px solid #eb4c6b;
+    background-color: #000000;
+  }
+  ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .header-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .icon {
+    width: 24px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .heading {
+    width: 721px;
+    height: 168px;
+    top: 292px;
+    left: 360px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .logo-section {
+    width: Hug (244px) px;
+    height: Hug (24px) px;
+    top: 46px;
+    left: 1100px;
+    gap: 24px;
+    opacity: 0px;
+  }
+  .header {
+    display: flex;
+    justify-content: space-around;
+  }
+  .h1 {
+    width: 666px;
+    height: 72px;
+    top: 292px;
+    left: 388px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Simplon Norm;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  .paragraph {
+    font-family: Simplon Norm;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: center;
+    width: 721px;
+    height: 80px;
+    top: 380px;
+    left: 360px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .content {
+    width: 721px;
+    height: 168px;
+    top: 292px;
+    left: 360px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+  }
+  .logo {
+    width: 35.61px;
+    height: 35.66px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 43.57px;
+    letter-spacing: 1px;
+    text-align: left;
+  }
+  .vector-logo {
+    width: 35.61px;
+    height: 35.66px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  select.select {
+    border: none;
+    outline: none;
+  }
+  .nav {
+    width: Hug (636px) px;
+    height: Hug (24px) px;
+    top: 140px;
+    left: 402px;
+    gap: 64px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+  }
+  .nav-option {
+    font-family: Simplon Norm;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-align: left;
+  }
+}

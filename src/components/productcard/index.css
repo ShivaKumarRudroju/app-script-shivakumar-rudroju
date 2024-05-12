@@ -1,0 +1,56 @@
+.image {
+  width: 300px;
+  height: 399px;
+  gap: 0px;
+  opacity: 0px;
+}
+.products-list {
+  width: 932px;
+  height: 2932px;
+  top: 652px;
+  left: 412px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 800px;
+}
+.card-text {
+  width: Hug (300px) px;
+  height: Hug (47px) px;
+  top: 1561px;
+  left: 412px;
+  gap: 8px;
+  opacity: 0px;
+  display: flex;
+  justify-content: space-between;
+}
+.heart-image {
+  width: 24px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+}
+p {
+  font-family: Simplon Norm;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.8px;
+  text-align: left;
+}
+.button {
+  border: 0px;
+  border-style: none;
+  background-color: transparent;
+}
+span {
+  text-decoration: underline;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
